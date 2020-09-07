@@ -1,2 +1,2 @@
-# Unity-Roll-Za-Ball-Project
-This is my first unity project. The goal of this game is to collect all the cubes by going through some challenges!
+# Roll-A-Ball
+This is my first Unity project. The goal of this game is to collect all the cubes by going through some challenges!
